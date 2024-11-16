@@ -29,7 +29,7 @@ Target Population: Adults from various age groups from around the world, ranging
 Sampling Frame: A general public database using an online platform (SurveyMonkey) where a diverse group of individuals can be accessed for the survey.
 Sampling Units: Individual participants who meet the age and demographic criteria.
 Sampling Strategy: The stratified random sampling method ensures that all age groups will be equally represented in the study, allowing for the findings' credibility and reliability.
-Observational units: demographic information (age group), listening frequency and preferences (genres, listening hours, places), changes in music taste over time, perception of current popular music, and engagement with popular music.
+The unit of observation in this survey is the individual participant. Data is collected from each person regarding their age, music preferences, listening habits, and perceptions of popular music over time.
 ```
 
 Your 5-10 question survey:
