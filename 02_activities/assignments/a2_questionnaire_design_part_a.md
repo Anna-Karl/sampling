@@ -16,30 +16,34 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+This survey explores how age influences music taste, specifically the perception of popular music, by comparing preferences across different age groups and examining how individual music tastes evolve over time.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Adults from various age groups from around the world, ranging from 18 to 80 years old, who include and represent diverse music tastes. 
+Sampling Frame: A general public database using an online platform (SurveyMonkey) where a diverse group of individuals can be accessed for the survey.
+Sampling Units: Individual participants who meet the age and demographic criteria.
+Sampling Strategy: The stratified random sampling method ensures that all age groups will be equally represented in the study, allowing for the findings' credibility and reliability.
+The unit of observation in this survey is the individual participant. Data is collected from each person regarding their age, music preferences, listening habits, and perceptions of popular music over time.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age?  18-25 | 26-35 | 36-45 | 46-55 | 56-65 | 66-75 | 76+
+2. How often do you listen to music? Every day | Several times a week | Once a week | Less often
+3. What genres of music do you enjoy the most?  Pop | Rock | Hip-Hop/Rap | Classical | Jazz | Country | Electronic | Other (please specify)
+4. How many hours a week do you usually spend listening to music? Less than 5 hours | 5-10 hours | 10-20 hours | More than 20 hours | 
+5. Where do you usually listen to music? In the car | At home (via headphones or speakers) | At work or school | Outside (via headphones) | At the gym or while working out | Other places (please specify)
+6. Do you feel that your taste in music has changed as you've aged?  Yes, I now enjoy different genres/artists compared to when I was younger. | No, my music taste has remained the same. | I enjoy the same types of music more, but some preferences have changed.
+7. How do you perceive the current popular music compared to the music from when you were younger?  It is better now than before. | It is worse now than before. | It's about the same as before. | I'm not sure.
+8. Do you actively listen to new popular music (e.g., charts, mainstream artists)?  Yes, regularly | Occasionally | Rarely | Never
+9. Do you think age affects your perception of popular music? Yes | No | Not sure
+10. If your taste in music has changed with age, what has influenced this change? Personal preferences | Influence of environment (friends, family) | Changes in life (work, family, etc.) | Media (TV, Internet)
 ```
 
 ## Rubric
@@ -66,3 +70,4 @@ Checklist:
 - [ ] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
+git pusg
